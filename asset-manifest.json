@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/plaintes/static/css/main.64f75e7b.css",
+    "main.js": "/plaintes/static/js/main.06ed4c7a.js",
+    "index.html": "/plaintes/index.html",
+    "main.64f75e7b.css.map": "/plaintes/static/css/main.64f75e7b.css.map",
+    "main.06ed4c7a.js.map": "/plaintes/static/js/main.06ed4c7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f75e7b.css",
+    "static/js/main.06ed4c7a.js"
+  ]
+}
